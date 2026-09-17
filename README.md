@@ -1,3 +1,4 @@
+
 # Laboratorio 1 — Diagnóstico técnico y flujo colaborativo
 
 **Asignatura:** Fundamentos de Computadores (INF-225)
@@ -31,3 +32,5 @@ Se aplicaron los principios de código limpio:
 ## Archivo
 
 - `diagnostico.js`: contiene la función refactorizada.
+
+
